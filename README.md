@@ -1,4 +1,4 @@
-# Programmieren lernen mit Python IDLE
+# Programmieren lernen mit Python und MicroPython
 
 Dieser Programmierkurs richtet sich an Schülerinnen und Schüler ab Klasse 8. 
 
@@ -6,13 +6,13 @@ Dieser Programmierkurs richtet sich an Schülerinnen und Schüler ab Klasse 8.
 1. Der Lehrer gibt eine Einführung in das Thema und demonstriert den Programmcode auf seinem PC. 
 2. Auf den PCs der Schülerinnen und Schüler liegt der Programmcode. Dazu erhalten sie ein Arbeitsblatt.  
 3. Die Schülerinnen und Schüler lösen selbstständig die Aufgaben auf dem Arbeitsblatt.   
-4. Zum Schluss werden die Lösungen besprochen.  
+4. Zum Schluss werden die Lösungen besprochen. 
 
 ## Ordner Doc
 
 | Inhalt                           | Datei .docx .pdf                               |
 | -------------------------------- | ---------------------------------------------- |
-| Arbeitsblätter                   | Doc/Arbeitsblaetter_2025                       |
+| Arbeitsblätter                   | Doc/Arbeitsblaetter_2026                       |
 
 > Die Arbeitsblätter nennen auf der letzten Seite alle Quellen des Kurses.
 
@@ -22,7 +22,7 @@ Dieser Programmierkurs richtet sich an Schülerinnen und Schüler ab Klasse 8.
 | -------------------------------- | ---------------------------------------------- |
 | Beispiele, Lösungen der Aufgaben | SW/03_Rechnen_mit_Zeichenketten_und_Zahlen     |
 |                                  | bis                                            |
-|                                  | SW/20_Bibliothek_pygame                        |
+|                                  | SW/23_MicroPython                              |
 
 ## Lizenz
 
