@@ -36,7 +36,7 @@ x, y = wo_bin_ich()
 print("x =", x, "y =", y)
 
 # Funktion mit einer Liste als Input
-def verteuerung(liste: list[float], p:[float]):
+def verteuerung(liste: list[float], p:float):
     for i in range(len(liste)):
         liste[i] *= 1 + p
 
